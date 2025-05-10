@@ -2,8 +2,6 @@
 ```markdown
 # 🤟 Real-Time Sign Language Translator
 
-![Sign Language Translator](https://user-images.githubusercontent.com/placeholder/sign-lang-banner.png)
-
 > A powerful and real-time sign language recognition system powered by **Convolutional Neural Networks (CNNs)** and built to bridge the communication gap for the deaf and hard-of-hearing community. 🌍
 
 ---
