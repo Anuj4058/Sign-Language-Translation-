@@ -133,7 +133,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ```
 
----
 
-Would you like this in a downloadable `.md` file or need help customizing it with your actual image links, model names, or GitHub profile?
-```
